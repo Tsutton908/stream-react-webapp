@@ -9,6 +9,18 @@
       "title": "other stream",
       "description": "here's a second stream",
       "id": 2
+    },
+    {
+      "title": "first account stream",
+      "description": "this was made by me!",
+      "userId": "101634172366184174794",
+      "id": 3
+    },
+    {
+      "title": "progrommatic navigation",
+      "description": "should not show up on ",
+      "userId": "101634172366184174794",
+      "id": 4
     }
   ]
 }
